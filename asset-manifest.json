@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1d742fbe.css",
+    "main.js": "/Portfolio/static/js/main.e4689bbf.js",
+    "static/media/profile.png": "/Portfolio/static/media/profile.23447425e39fd98aa52c.png",
+    "static/media/E-Commerce.jpg": "/Portfolio/static/media/E-Commerce.f6e6572780bc530f8d72.jpg",
+    "static/media/Jarvis.jpg": "/Portfolio/static/media/Jarvis.a54b37112ae811989a0d.jpg",
+    "static/media/Bike.jpg": "/Portfolio/static/media/Bike.0d7aadcaa76360350e92.jpg",
+    "static/media/glassesimoji.png": "/Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.3d73f660abf627d7ad95.pdf",
+    "static/media/wave1.png": "/Portfolio/static/media/wave1.7aa32bedd6f7e3ca6a76.png",
+    "static/media/Hsm1.jpeg": "/Portfolio/static/media/Hsm1.2bb62bd96394fd6892cf.jpeg",
+    "static/media/Vector2.png": "/Portfolio/static/media/Vector2.71565c9e64135f7021da.png",
+    "static/media/thumbup.png": "/Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/crown.png": "/Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1d742fbe.css.map": "/Portfolio/static/css/main.1d742fbe.css.map",
+    "main.e4689bbf.js.map": "/Portfolio/static/js/main.e4689bbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d742fbe.css",
+    "static/js/main.e4689bbf.js"
+  ]
+}

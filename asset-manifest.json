@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1d742fbe.css",
-    "main.js": "/Portfolio/static/js/main.18ca9f58.js",
+    "main.js": "/Portfolio/static/js/main.15f4df39.js",
     "static/media/profile.png": "/Portfolio/static/media/profile.23447425e39fd98aa52c.png",
+    "static/media/ticket.png": "/Portfolio/static/media/ticket.ba411e2a7344f6febace.png",
     "static/media/E-Commerce.jpg": "/Portfolio/static/media/E-Commerce.f6e6572780bc530f8d72.jpg",
     "static/media/Jarvis.jpg": "/Portfolio/static/media/Jarvis.a54b37112ae811989a0d.jpg",
-    "static/media/Bike.jpg": "/Portfolio/static/media/Bike.0d7aadcaa76360350e92.jpg",
     "static/media/glassesimoji.png": "/Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
     "static/media/resume.pdf": "/Portfolio/static/media/resume.3d73f660abf627d7ad95.pdf",
     "static/media/wave1.png": "/Portfolio/static/media/wave1.7aa32bedd6f7e3ca6a76.png",
@@ -18,10 +18,10 @@
     "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/Portfolio/index.html",
     "main.1d742fbe.css.map": "/Portfolio/static/css/main.1d742fbe.css.map",
-    "main.18ca9f58.js.map": "/Portfolio/static/js/main.18ca9f58.js.map"
+    "main.15f4df39.js.map": "/Portfolio/static/js/main.15f4df39.js.map"
   },
   "entrypoints": [
     "static/css/main.1d742fbe.css",
-    "static/js/main.18ca9f58.js"
+    "static/js/main.15f4df39.js"
   ]
 }

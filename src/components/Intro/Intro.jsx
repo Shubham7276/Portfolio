@@ -31,6 +31,7 @@ const Intro = () => {
           <span>Shubham Chaudhari</span>
           <span>
             FullStack Developer with high level of experience in web designing
+            <br/>
             and development, producting the Quality work
           </span>
         </div>
@@ -39,8 +40,9 @@ const Intro = () => {
         </Link>
         {/* social icons */}
         <div className="i-icons">
-          <img src={Github} alt="" />
-          <img src={LinkedIn} alt="" />
+         <a href="https://github.com/Shubham7276?tab=repositories"> <img src={Github} alt="" /></a>
+          <a href="linkedin.com/in/programmer-shubham-chaudhari
+"><img src={LinkedIn} alt="" /></a>
           <img src={Instagram} alt="" />
         </div>
       </div>
